@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ApiAutomationSample"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="60.889">
+    <properties></properties>
+
+
+
+            <testcase
+                name="getFoodOutletResponse"
+                time="60.889"
+                classname="org.example.FoodOutletResponseVerification">
+            </testcase>
+</testsuite>
